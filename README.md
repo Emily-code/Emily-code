@@ -6,7 +6,7 @@
 [//]: # (![Header]&#40;https://github.com/Emily-code/Emily-code/blob/main/assets/heading-of-qa-automation-what-is-it-and-why-do-you-need-it.jpg&#41;)
 
 <div id="socials" align="center">
-<a href="www.linkedin.com/in/emily-askarova">
+<a href="https://www.linkedin.com/in/emily-askarova/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://t.me/AskEmy">
@@ -22,7 +22,7 @@
 - My experience is more than 2 years in WEB testing
 - My English level - B1
 - View my [CV]()
-- Contact me by [Linkedin](www.linkedin.com/in/emily-askarova), [Email](emily.ravilevna@gmail.com)
+- Contact me by [LinkedIn](https://www.linkedin.com/in/emily-askarova/), [Email](mailto:emily.ravilevna@gmail.com)
 
 
 ---
