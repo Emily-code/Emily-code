@@ -2,8 +2,9 @@
 
 
 
-I'm manual Test Engineer working from Germany
-My experience is more than 2 years in WEB testing
+- I'm manual Test Engineer working from Germany
+
+- My experience is more than 2 years in WEB testing
 
 
 
