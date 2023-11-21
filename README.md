@@ -41,8 +41,7 @@
     <code><img width="5%" title="Postman" src="images/postman.png"></code>
     <code><img width="5%" title="Swagger" src="images/swagger.png"></code>
     <code><img width="5%" title="BrowserStack" src="images/browserstack.png"></code>
-    <code><img width="5%" title="HTML" src="images/html.png"></code>
-    <code><img width="5%" title="CSS" src="images/css.png"></code>
+    
     
 </p>
 
@@ -63,6 +62,8 @@
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## :computer: Working with Code:
 <p>
+    <code><img width="5%" title="HTML" src="images/html.png"></code>
+    <code><img width="5%" title="CSS" src="images/css.png"></code>
     <code><img width="5%" title="Pycharm" src="images/pycharm.png"></code>
     <code><img width="5%" title="Pytest" src="images/pytest.png"></code>
     <code><img width="5%" title="Python" src="images/python.png"></code>
