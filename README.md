@@ -41,6 +41,9 @@
     <code><img width="5%" title="Postman" src="images/postman.png"></code>
     <code><img width="5%" title="Swagger" src="images/swagger.png"></code>
     <code><img width="5%" title="BrowserStack" src="images/browserstack.png"></code>
+    <code><img width="5%" title="HTML" src="images/html.png"></code>
+    <code><img width="5%" title="CSS" src="images/css.png"></code>
+    
 </p>
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -67,3 +70,10 @@
     <code><img width="5%" title="Allure Report" src="images/allure_report.png"></code>
     <code><img width="5%" title="Github" src="images/github_1.png"></code>
 </p>
+
+
+&#8287;&#8287;&#8287;&#8287;&#8287;
+## :bar_chart: Git stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emily-code&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-code&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emily-code&theme=tokyonight)
