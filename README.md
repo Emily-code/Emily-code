@@ -26,9 +26,23 @@
 
 
 ---
+## :page_with_curl: Test documentation:
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+    <img src="https://code.benco.io/icon-collection/other/devops-testplans.svg" title="azure-testplans" alt="azure-testplans" width="40" height="40"/>&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="microsoft-test-manager" alt="microsoft-test-manager" width="40" height="40"/>&nbsp
+    <img src="https://www.svgrepo.com/show/353597/confluence.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
+    <img src="assets/xmind.png" title="xmind" alt="xmind" width="40" height="40"/>&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+</div>
 
-
-## :page_with_curl: Тестовая документация:
-
-
-
+&#8287;&#8287;&#8287;&#8287;&#8287;
+## :page_with_curl: Test documentation:
+<p>
+    <code><img width="5%" title="jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></code>
+    <code><img width="5%" title="jira" src="https://code.benco.io/icon-collection/other/devops-testplans.svg"></code>
+    <code><img width="5%" title="jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
+    <code><img width="5%" title="jira" src="https://www.svgrepo.com/show/353597/confluence.svg"></code>
+    <code><img width="5%" title="jira" src="assets/xmind.png"></code>
+    <code><img width="5%" title="jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+</p>
