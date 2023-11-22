@@ -25,19 +25,19 @@
 <table width="100%" border='0'>
     <tr>
         <td width="30%" valign="middle"><img src="images/stepik_logo.png"></td>
-        <td valign="middle">Automation and Programming Python.Selenium <a target="_blank" href="https://stepik.org/cert/1891055?lang=en">Stepik</a>.<br>Postman for API testing <a target="_blank" href="https://stepik.org/cert/2074546?lang=en">Stepik</a> </td>
+        <td valign="middle">Automation and Programming Python.Selenium <a target="_blank" href="https://stepik.org/cert/1891055?lang=en">Stepik</a><br>Postman for API testing <a target="_blank" href="https://stepik.org/cert/2074546?lang=en">Stepik</a> </td>
     </tr>
     <tr>
         <td width="30%" valign="middle"><img src="images/software testing_logo.png"></td>
-        <td valign="middle">Logs as a testing tool <a target="_blank" href="https://cert.software-testing.ru/324819308719899209">Software-Testing school</a>.</td>
+        <td valign="middle">Logs as a testing tool <a target="_blank" href="https://cert.software-testing.ru/324819308719899209">Software-Testing school</a></td>
     </tr>
     <tr>
         <td width="30%" valign="middle"><img src="images/htmlacademy_logo.png"></td>
-        <td valign="middle">HTML and CSS. Adaptive layout and automation  <a target="_blank" href="https://htmlacademy.ru/intensive/adaptive">HTML Academy</a>.</td>
+        <td valign="middle">HTML and CSS. Adaptive layout and automation  <a target="_blank" href="https://htmlacademy.ru/intensive/adaptive">HTML Academy</a></td>
     </tr>
     <tr>
         <td width="30%" valign="middle"><img src="images/geekbrains_logo.png"></td>
-        <td valign="middle">Basic JavaScript Course  <a target="_blank" href="https://gb.ru/courses/programming">GeekBrains</a>.</td>
+        <td valign="middle">Basic JavaScript Course  <a target="_blank" href="https://gb.ru/courses/programming">GeekBrains</a></td>
     </tr>
 </table>
   
@@ -97,7 +97,7 @@
     <code><img width="5%" title="Python" src="images/python.png"></code>
     <code><img width="5%" title="Selenium" src="images/selenium.png"></code>
     <code><img width="5%" title="Allure Report" src="images/allure_report.png"></code>
-    <code><img width="5%" title="Github" src="images/github_logo.png"></code>
+    <code><img width="8%" title="Github" src="images/github_logo.png"></code>
 </p>
 
 
