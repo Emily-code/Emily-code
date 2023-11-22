@@ -1,6 +1,3 @@
-
-
-
 <div id="header" align="center">
     <h1>Hi there, I'm Emily</h1>
     <h3>QA Engineer from Munich</h3>
