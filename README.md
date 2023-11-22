@@ -13,12 +13,42 @@
 </div>
 
 
-### :raising_hand_woman: About me
+## :raising_hand_woman: About me
 - I'm manual Test Engineer
 - My experience is more than 2 years in WEB testing
 - My English level - B1
 - View my [CV]()
 - Contact me by [LinkedIn](https://www.linkedin.com/in/emily-askarova/), [Email](mailto:emily.ravilevna@gmail.com)
+
+&#8287;&#8287;&#8287;&#8287;&#8287;
+## :woman_student: Сourses and Training:
+<table width="100%" border='0'>
+    <tr>
+        <td width="30%" valign="middle"><img src="images/stepik_logo.png"></td>
+        <td valign="middle">Automation and Programming Python.Selenium <a target="_blank" href="https://stepik.org/cert/1891055?lang=en">Stepik</a>.<br>Postman for API testing <a target="_blank" href="https://stepik.org/cert/2074546?lang=en">Stepik</a> </td>
+    </tr>
+    <tr>
+        <td width="30%" valign="middle"><img src="images/software testing_logo.png"></td>
+        <td valign="middle">Logs as a testing tool <a target="_blank" href="https://cert.software-testing.ru/324819308719899209">Software-Testing school</a>.</td>
+    </tr>
+    <tr>
+        <td width="30%" valign="middle"><img src="images/htmlacademy_logo.png"></td>
+        <td valign="middle">HTML and CSS. Adaptive layout and automation  <a target="_blank" href="https://htmlacademy.ru/intensive/adaptive">HTML Academy</a>.</td>
+    </tr>
+    <tr>
+        <td width="30%" valign="middle"><img src="images/geekbrains_logo.png"></td>
+        <td valign="middle">Basic JavaScript Course  <a target="_blank" href="https://gb.ru/courses/programming">GeekBrains</a>.</td>
+    </tr>
+</table>
+  
+&#8287;&#8287;&#8287;&#8287;&#8287;
+## :briefcase: Projects
+### UI autotests
+##### <img width="5%" title="GitHub" src="images/github_logo.png"> [Autotest_Selenium.Python](https://github.com/Emily-code/Autotest_Selenium.Python)
+
+### HTML/CSS. Adaptive landing page
+##### <img width="5%" title="GitHub" src="images/github_logo.png"> [Landing page](https://github.com/Emily-code/Industrial-Hoses-landing)
+
 
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -67,7 +97,7 @@
     <code><img width="5%" title="Python" src="images/python.png"></code>
     <code><img width="5%" title="Selenium" src="images/selenium.png"></code>
     <code><img width="5%" title="Allure Report" src="images/allure_report.png"></code>
-    <code><img width="5%" title="Github" src="images/github_1.png"></code>
+    <code><img width="5%" title="Github" src="images/github_logo.png"></code>
 </p>
 
 
