@@ -14,11 +14,10 @@
 
 
 ## :raising_hand_woman: About me
-- I'm manual Test Engineer
+- I'm software Test Engineer
 - My experience is more than 2 years in WEB testing
 - My English level - B1
 - View my [CV]()
-- Contact me by [LinkedIn](https://www.linkedin.com/in/emily-askarova/), [Email](mailto:emily.ravilevna@gmail.com)
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## :woman_student: Сourses and Training:
@@ -97,7 +96,7 @@
     <code><img width="5%" title="Python" src="images/python.png"></code>
     <code><img width="5%" title="Selenium" src="images/selenium.png"></code>
     <code><img width="5%" title="Allure Report" src="images/allure_report.png"></code>
-    <code><img width="8%" title="Github" src="images/github_logo.png"></code>
+    <code><img width="5%" title="Github" src="images/github_logo.png"></code>
 </p>
 
 
