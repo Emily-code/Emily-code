@@ -1,4 +1,4 @@
-![Header](https://github.com/Emily-code/Emily-code/blob/main/assets/shutterstock_1801727188.jpg)
+![Header](https://github.com/Emily-code/Emily-code/blob/main/images/abstract.jpg)
 
 <div id="header" align="center">
     <h1>Hi there, I'm Emily</h1>
