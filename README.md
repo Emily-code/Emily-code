@@ -19,8 +19,8 @@
 - My English level - B1
 - View my [CV]()
 
-[//]: # (&#8287;&#8287;&#8287;&#8287;&#8287;)
-## :mortar_board: Сourses and Training:
+
+## :mortar_board: Сourses and Training
 <table width="100%" border='0'>
     <tr>
         <td width="30%" valign="middle"><img src="images/stepik_logo.png"></td>
@@ -40,7 +40,7 @@
     </tr>
 </table>
   
-[//]: # (&#8287;&#8287;&#8287;&#8287;&#8287;)
+
 ## :briefcase: Projects
 ### UI autotests
 ##### <img width="5%" title="GitHub" src="images/github_logo.png"> [Autotest_Selenium.Python](https://github.com/Emily-code/Autotest_Selenium.Python)
@@ -49,9 +49,7 @@
 ##### <img width="5%" title="GitHub" src="images/github_logo.png"> [Landing page](https://github.com/Emily-code/Industrial-Hoses-landing)
 
 
-
-[//]: # (&#8287;&#8287;&#8287;&#8287;&#8287;)
-## :page_with_curl: Test documentation:
+## :scroll:  Test documentation
 <p>
     <code><img width="5%" title="Jira" src="images/jira.png"></code>
     <code><img width="5%" title="Confluence" src="images/confluence.png"></code>
@@ -61,8 +59,8 @@
     <code><img width="5%" title="Figma" src="images/figma.png"></code>
 </p>
 
-[//]: # (&#8287;&#8287;&#8287;&#8287;&#8287;)
-## :globe_with_meridians: Web Testing:
+
+## :globe_with_meridians:    Web Testing
 <p>
     <code><img width="5%" title="Chrome DevTools" src="images/chrome_devtools.png"></code>
     <code><img width="5%" title="Postman" src="images/postman.png"></code>
@@ -72,21 +70,21 @@
     
 </p>
 
-[//]: # (&#8287;&#8287;&#8287;&#8287;&#8287;)
+
 ## :floppy_disk: Working with Data:
 <p>
     <code><img width="5%" title="MongoDB" src="images/mongodb.png"></code>
     <code><img width="5%" title="Microsoft SQL" src="images/microsoft_sql.png"></code>
 </p>
 
-[//]: # (&#8287;&#8287;&#8287;&#8287;&#8287;)
-## :mailbox_with_mail: Logs and Brokers:
+
+## :mailbox_with_mail:   Logs and Brokers
 <p>
     <code><img width="5%" title="Kafka" src="images/kafka.png"></code>
     <code><img width="5%" title="Kibana" src="images/kibana.png"></code>
 </p>
 
-[//]: # (&#8287;&#8287;&#8287;&#8287;&#8287;)
+
 ## :computer: Working with Code:
 <p>
     <code><img width="5%" title="HTML" src="images/html.png"></code>
@@ -100,7 +98,7 @@
 </p>
 
 
-[//]: # (&#8287;&#8287;&#8287;&#8287;&#8287;)
+
 ## :bar_chart: Git stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emily-code&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-code&layout=compact&theme=tokyonight)
