@@ -71,7 +71,7 @@
 </p>
 
 
-## :floppy_disk: Working with Data:
+## :floppy_disk: Working with Data
 <p>
     <code><img width="5%" title="MongoDB" src="images/mongodb.png"></code>
     <code><img width="5%" title="Microsoft SQL" src="images/microsoft_sql.png"></code>
@@ -85,7 +85,7 @@
 </p>
 
 
-## :computer: Working with Code:
+## :computer: Working with Code
 <p>
     <code><img width="5%" title="HTML" src="images/html.png"></code>
     <code><img width="5%" title="CSS" src="images/css.png"></code>
