@@ -14,7 +14,7 @@
 
 
 ## :raising_hand_woman: About me 
-- I'm software Test Engineer
+- I'm QA Engineer
 - My experience is more than 4 years in WEB testing
 - My English level - B2
 - View my [CV]()
